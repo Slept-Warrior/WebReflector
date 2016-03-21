@@ -133,8 +133,6 @@ namespace WebReflector
                 case "COMD":
                     output = theDirtyCMD(command);
                     break;
-                case "LOAD":
-                    break;
                 default:
                     output = "";
                     break;
